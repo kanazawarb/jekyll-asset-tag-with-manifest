@@ -32,4 +32,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/wtnabe/jekyll-asset_manifest_tag.
+Bug reports and pull requests are welcome on GitHub at https://github.com/kanazawarb/jekyll-asset-tag-with-manifest.
